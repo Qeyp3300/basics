@@ -1,0 +1,12 @@
+#you{
+    text-shadow: red;
+}
+body{
+    background-color: blue;
+}
+#vin{
+    font-weight: bold;
+    text-align: justify;
+    text-transform: lowercase;
+    text-shadow: black;
+}
